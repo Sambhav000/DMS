@@ -1,0 +1,94 @@
+2023-04-26 08:50:24,163 [7] DEBUG SMDALWrapper::7 [(null)] <(null)> - Start->Executing SELECT Query
+2023-04-26 08:50:24,209 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - Start-> Load Provider Settings
+2023-04-26 08:50:24,209 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - End->Loading Provider Settings
+2023-04-26 08:50:24,209 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - Start->Load ConnectionSettings
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,225 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,241 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt Start-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RRSAEncrDecr::7 [(null)] <(null)> - RRSAEncrDecr : DoDecrypt End-> Doing Decryption
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - End->Loading ConnectionSettings
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - Start->Load NHibernateSettings
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - End->Loading NHibernateSettings
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - Start->Load QueryOperatorSettings
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - End->Loading QueryOperatorSettings
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - Start->Load ConfigSettings
+2023-04-26 08:50:24,256 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - End->Loading QueryOperatorSettings
+2023-04-26 08:50:24,272 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - Start->Load DB Names to replace
+2023-04-26 08:50:24,272 [7] DEBUG RDalConfigLoader::7 [(null)] <(null)> - End->Loading DB Names to replace
+2023-04-26 08:50:24,272 [7] DEBUG RDBFactory::7 [(null)] <(null)> - GetConnectionManager : connection IDSecMDB
+2023-04-26 08:50:24,272 [7] DEBUG RDBFactory::7 [(null)] <(null)> - GetNewConnectionManager : connection IDSecMDB
+2023-04-26 08:50:24,319 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - Start-> Execute Direct Query
+2023-04-26 08:50:24,334 [7] DEBUG RQueryExecutor::7 [(null)] <(null)> - Start->Init RQueryExecutor
+2023-04-26 08:50:24,334 [7] DEBUG RQueryExecutor::7 [(null)] <(null)> - End-> Init RQueryExecutor
+2023-04-26 08:50:24,334 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in Method GetClassInAssembly
+2023-04-26 08:50:24,334 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in method GetClassInAssembly
+2023-04-26 08:50:24,350 [7] DEBUG RSelector::7 [(null)] <(null)> - Start->Select using ADO
+2023-04-26 08:50:24,350 [7] DEBUG RSelector::7 [(null)] <(null)> - Select Query : SELECT tab.* 
+                FROM (SELECT * 
+	                FROM IVPSecMasterVendor.dbo.ivp_secmv_task_status 
+	                WHERE ctm_status_id IN (42287) AND status IN ('FAILED', 'PASSED')) tab
+                LEFT JOIN IVPSecMasterVendor.dbo.ivp_secmv_task_status ts ON (ts.ctm_status_id IN (42287) AND tab.task_master_id = ts.task_master_id AND ts.status NOT IN ('PASSED', 'FAILED'))
+                WHERE ts.task_master_id IS NULL
+                ORDER BY task_status_id DESC
+2023-04-26 08:50:24,366 [7] DEBUG RSelector::7 [(null)] <(null)> - End->Select using ADO
+2023-04-26 08:50:24,366 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - End->Executing Direct Query
+2023-04-26 08:50:24,366 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - Start-> Execute Direct Query
+2023-04-26 08:50:24,366 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in Method GetClassInAssembly
+2023-04-26 08:50:24,366 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in method GetClassInAssembly
+2023-04-26 08:50:24,366 [7] DEBUG RSelector::7 [(null)] <(null)> - Start->Select using ADO
+2023-04-26 08:50:24,366 [7] DEBUG RSelector::7 [(null)] <(null)> - Select Query : SET TRANSACTION ISOLATION LEVEL READ COMMITTED
+2023-04-26 08:50:24,366 [7] DEBUG RSelector::7 [(null)] <(null)> - End->Select using ADO
+2023-04-26 08:50:24,366 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - End->Executing Direct Query
+2023-04-26 08:50:24,366 [7] DEBUG SMDALWrapper::7 [(null)] <(null)> - End->Executing SELECT Query
+2023-04-26 08:50:54,163 [7] DEBUG SMDALWrapper::7 [(null)] <(null)> - Start->Executing SELECT Query
+2023-04-26 08:50:54,163 [7] DEBUG RDBFactory::7 [(null)] <(null)> - GetConnectionManager : connection IDSecMDB
+2023-04-26 08:50:54,163 [7] DEBUG RDBFactory::7 [(null)] <(null)> - GetNewConnectionManager : connection IDSecMDB
+2023-04-26 08:50:54,163 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - Start-> Execute Direct Query
+2023-04-26 08:50:54,163 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in Method GetClassInAssembly
+2023-04-26 08:50:54,163 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in method GetClassInAssembly
+2023-04-26 08:50:54,163 [7] DEBUG RSelector::7 [(null)] <(null)> - Start->Select using ADO
+2023-04-26 08:50:54,163 [7] DEBUG RSelector::7 [(null)] <(null)> - Select Query : SELECT tab.* 
+                FROM (SELECT * 
+	                FROM IVPSecMasterVendor.dbo.ivp_secmv_task_status 
+	                WHERE ctm_status_id IN (42287) AND status IN ('FAILED', 'PASSED')) tab
+                LEFT JOIN IVPSecMasterVendor.dbo.ivp_secmv_task_status ts ON (ts.ctm_status_id IN (42287) AND tab.task_master_id = ts.task_master_id AND ts.status NOT IN ('PASSED', 'FAILED'))
+                WHERE ts.task_master_id IS NULL
+                ORDER BY task_status_id DESC
+2023-04-26 08:50:54,163 [7] DEBUG RSelector::7 [(null)] <(null)> - End->Select using ADO
+2023-04-26 08:50:54,163 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - End->Executing Direct Query
+2023-04-26 08:50:54,163 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - Start-> Execute Direct Query
+2023-04-26 08:50:54,163 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in Method GetClassInAssembly
+2023-04-26 08:50:54,163 [7] DEBUG RClassMethodUtils::7 [(null)] <(null)> - Start-->> Entered in method GetClassInAssembly
+2023-04-26 08:50:54,163 [7] DEBUG RSelector::7 [(null)] <(null)> - Start->Select using ADO
+2023-04-26 08:50:54,163 [7] DEBUG RSelector::7 [(null)] <(null)> - Select Query : SET TRANSACTION ISOLATION LEVEL READ COMMITTED
+2023-04-26 08:50:54,163 [7] DEBUG RSelector::7 [(null)] <(null)> - End->Select using ADO
+2023-04-26 08:50:54,163 [7] DEBUG RDBConnectionManager::7 [(null)] <(null)> - End->Executing Direct Query
+2023-04-26 08:50:54,163 [7] DEBUG SMDALWrapper::7 [(null)] <(null)> - End->Executing SELECT Query

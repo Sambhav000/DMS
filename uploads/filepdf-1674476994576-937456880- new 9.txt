@@ -1,0 +1,61 @@
+{
+  "facility": [
+    {
+      "name": "Dummy Test API Asset",
+      "currencyType": "AED",
+      "globalAmount": "0",
+      "isPrivate": "False",
+      "maturityDate": "12/9/2022 12:00:00 AM",
+      "rateOptions": [
+        {
+          "behavior": "",
+          "compoundMethod": "",
+          "endDate": "",
+          "firstPayDate": "",
+          "frequency": "",
+          "interestMethod": "",
+          "isObservationShift": "",
+          "monthCount": "",
+          "name": "",
+          "offset": "",
+          "spread": "",
+          "startDate": "",
+          "yearCount": ""
+        }
+      ],
+      "securityId": [
+        {
+          "id": "",
+          "type": ""
+        }
+      ],
+      "tradesWithAccrued": "False",
+      "type": ""
+    }
+  ],
+  "creditDate": "12/8/2022 12:00:00 AM",
+  "agentBank": {
+    "contact": "",
+    "email": "",
+    "name": "Dummy Agent Bank"
+  },
+  "contact": {
+    "email": "VCP_Ops@vistacreditpartners.com; akhil.gujrati@vistacreditpartners.com",
+    "name": "VCP Ops",
+    "phone": ""
+  },
+  "documents": [
+    {
+      "description": "",
+      "file": "",
+      "fileName": "",
+      "noticeId": ""
+    }
+  ],
+  "globalAmount": "0",
+  "issuer": "Dummy Issuer",
+  "jurisdiction": "",
+  "notes": "",
+  "sponsor": "",
+  "underwriter": ""
+}

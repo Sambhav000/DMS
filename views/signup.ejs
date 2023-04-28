@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  href="signup.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap" rel="stylesheet">
+
+    <title>SignUp</title>
+</head>
+<body>
+    <h2>Create An Account</h2>
+    <div id="div1">
+       
+        <br>
+        <!-- <div id="ul">
+            <p >Password Should Contain Atleast</p>
+            <ul>
+            <li> One NUMBER</li>
+            <li> One Upper Case</li>
+            <li> One Lower Case</li>
+            <li> One Special Character</li>
+            </ul>
+            </div> -->
+        <div id="SignupDetails">
+            <form method="post" action="/signup">
+                <label>FirstName &nbsp;</label>
+                
+                    <input name="firstname" type="text" placeholder="Enter Your First Name" id="firstname"  required>
+
+                <br>
+                <label>LastName &nbsp;</label>
+                <input name="lastname" type="text" placeholder="Enter Your Lastname" id="lastname" required>
+                <br>
+                <br>
+                <fieldset>
+                    <label>Gender </label>
+                    <input type="radio" name="gender" value="male" required> Male
+                    <input type="radio" name="gender" value="female" required> Female
+                </fieldset>
+               <br>
+                
+                <label>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+            
+                <input type="email" name="email" id="email" placeholder="Enter Your Email" required>
+                <br>
+                <label >Password &nbsp;&nbsp;</label>
+                <input type="password" name="password" id="password" placeholder="Create a Password" required>
+                <br>
+                <label >Re-Enter &nbsp;&nbsp;&nbsp;</label>
+                <input type="password" name="reenterpass" id="reenterpass" placeholder="Re-Enter Your Password" required>
+                <br>
+                <input type="submit" id="button1" value="SignUp">
+            </form>
+            <form method ="get" action="/login">
+                <input type="submit" value="ALREADY HAVE AN ACCOUNT" id="button2"/>
+            </form>
+        </div>
+    </div>
+    
+    <% if(error) {%>
+        <script>
+        alert("<%= error %>");
+        </script>
+       <% } %>
+</body>
+</html>

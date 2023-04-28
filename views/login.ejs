@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  href="login.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap" rel="stylesheet">
+
+    <title>Login or SignUp</title>
+</head>
+<body>
+    <h2>Please Enter Your Credentials</h2>
+  
+    <div id="div1">
+        
+        <form method="post" action="/login">
+            <input name="email" type="email" id="email" placeholder="Enter Your Email"  required>
+           
+            <input name="password" type="password" id="password" placeholder="Enter Your Password"  required>
+            
+            <input type="submit" value="Login" id="LoginButton">
+        </form>
+        <form method="get" action="/signup">
+            <input type="submit" id="button2" value="Create An Account">
+        </form>
+        <form method="get" action="/adminlogin">
+        <input type="submit" value="Admin Login" id="AdminButton">
+        </form>
+
+    </div>
+
+<% if(error) {%>
+    <script>
+    alert("<%= error %>");
+    </script>
+   <% } %>
+</body>
+</html> 

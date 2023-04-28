@@ -1,0 +1,19 @@
+{
+
+  "Action": "Create",
+
+  "Module": "Securities",
+
+  "Type": "ABS",
+
+  "ID": "ABSE000755",
+
+  "Key": "ABSE000755",
+
+  "TimeStamp": "2022-11-03 11:24:19.335489",
+
+  "User": "admin",
+
+  "EffectiveStartDate": null
+
+}

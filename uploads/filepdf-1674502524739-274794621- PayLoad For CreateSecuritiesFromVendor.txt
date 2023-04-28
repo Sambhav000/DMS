@@ -1,0 +1,10 @@
+{
+  "UserName": "IVPUser",
+  "Data": [
+    {
+      "UniqueIdentifierValue": "BBG0104P8FQ8",
+      "UniqueIdentifierName": "BB_GLOBAL",
+      "MasterAttributes": null
+    }
+  ]
+}

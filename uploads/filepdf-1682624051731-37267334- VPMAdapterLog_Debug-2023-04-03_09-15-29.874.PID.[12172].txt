@@ -1,0 +1,53 @@
+2023-04-03 09:15:29,890 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: E:\IVPSecMaster\SecMaster\CustomConfigFiles\CustomClassConfig.config
+2023-04-03 09:15:29,890 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: RefMaster Channel Creation --> Starts
+2023-04-03 09:15:29,983 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: RefMaster Channel Creation --> Ends
+2023-04-03 09:15:29,983 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: SecMaster Channel Creation --> Starts
+2023-04-03 09:15:30,030 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: SecMaster Channel Creation --> Ends
+2023-04-03 09:15:30,358 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: VPM Adapter V1.HPS.31102022
+2023-04-03 09:15:30,358 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Execute --> Starts
+2023-04-03 09:15:30,483 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Serialize input : {"Loan VPM":[{"Security Id":"LOSE012799","Security Key":"LOSE012799","Security Type Name":"Loan","Last Modified On":"2023-04-03T09:14:56.953","Last Modified By":"jagnello","FacilityContract_BloombergId":null,"FacilityContract_CUSIP":null,"FacilityContract_ExposureCurrencyId":"100001","FacilityContract_GenerationSourceCode":"SE","FacilityContract_ISIN":null,"FacilityContract_IssueDate":"2022-12-28T00:00:00","FacilityContract_IssuerId":"10034059","FacilityContract_LienTypeCode":null,"FacilityContract_LIN":null,"FacilityContract_LoanXId":null,"FacilityContract_MaturityDate":"2032-12-28T00:00:00","FacilityContract_Multiplier":0.0100,"FacilityContract_PositionCurrencyId":"100001","FacilityContract_ProceedsCurrencyId":"100001","FacilityContract_SecurityTypeId":10000018.0,"FacilityContract_SettlementTypeCode":null,"FacilityContract_SymbolCode":"DCA_NOTE_DD_PIK","FacilityContract_SymbolDescription":"DCA Acquisition Holdings LLC NDD (12/28/","FacilityContract_SymbolId":null,"FacilityContract_TradeAssociationCode":"OTHER","IncomeCurrency_EntityCode_FacilityContract_ProceedsCurrencyId":"CUIV00063","IssueCurrency_EntityCode_FacilityContract_PositionCurrencyId":"CUIV00063","Issuer_Entity Code_FacilityContract_IssuerId":"ISIV26355","OtherInformationFields_BrokerAccountQuantityMultiplier":1.000000000,"RiskCurrency_EntityCode_FacilityContract_ExposureCurrencyId":"CUIV00063","SecurityTypeCode_EntityCode_FacilityContract_SecurityTypeId":"SECO00015","Underlier_Value":0.0100,"BaseRateFields_LockoutDays":null,"BaseRateFields_Method":null,"BaseRateFields_ObservationShift":null,"BaseRateFields_SpreadAdjustment":null}]}
+2023-04-03 09:15:30,483 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Populating object from secmaster -> Start
+2023-04-03 09:15:30,483 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: DataSet : Loan VPM
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Populating object from secmaster -> End
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Filterting Securities -> Start
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Filterting Securities -> End
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Entity Posting --> Starts
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Auto Posting started for -> Currency
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Auto Posting ended for -> Currency
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Auto Posting started for -> Exchange
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Auto Posting ended for -> Exchange
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Auto Posting started for -> Issuer
+2023-04-03 09:15:30,499 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Hitting GetDataByEntityType for Entity : Issuer --> Starts
+2023-04-03 09:16:03,115 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Hitting GetDataByEntityType : Issuer  --> Ends
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Auto Posting ended for -> Issuer
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Entity posting End
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Dictionary for deletion Start
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Dictionary for deletion End
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Splitting table in Masterdata and Legdata Start
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Splitting table in Materdata and Legdata End
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: HPS:Checking for bonds to override --> Start
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: HPS:Checking for bonds to override --> End
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Region Master Data --> Starts
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Creating BankDebtServiceClient --> Starts
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Creating BankDebtServiceClient --> Ends
+2023-04-03 09:16:58,308 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Prepare array for symbol service -> Start
+2023-04-03 09:16:58,324 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: InsertFacility --> Starts
+2023-04-03 09:17:00,027 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: InsertFacility --> Ends
+2023-04-03 09:17:00,121 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Result Facility : {"Active":true,"AgentBrokerContactId":null,"AgentBrokerId":null,"AmortizationTypeCode":null,"BloombergId":null,"BookBondPremiumMarketDiscount":false,"BusinessDayConventionCode":null,"CUSIP":null,"CreditAgreementId":null,"CreditOwnerUserId":null,"DisableAccrual":false,"ExposureCurrencyId":100001,"ExternalReferenceNumber":null,"FreezeBorrow":null,"FrontArenaId":null,"GenerationSourceCode":"SE","ISIN":null,"Id":10005227,"IssueDate":"2022-12-28T00:00:00","IssuerId":10034059,"LCSubLimit":null,"LIN":null,"LastModifiedAt":"2023-04-03T09:17:00.11","LastModifiedBy":30000137,"LienTypeCode":null,"LoanServicerBrokerId":null,"LoanServicerContactId":null,"LoanXId":null,"MaturityDate":"2032-12-28T00:00:00","Multiplier":0.0100,"OriginalGlobal":0,"PositionCurrencyId":100001,"PreferredDataServiceId":null,"ProceedsCurrencyId":100001,"Remarks":null,"RoundLot":0.0,"SecurityTypeId":10000018,"SettlementTypeCode":null,"StrategyId":null,"SymbolCode":"DCA_NOTE_DD_PIK","SymbolDescription":"DCA Acquisition Holdings LLC NDD (12/28/","SymbolId":10591069,"TradeAssociationCode":"OTHER","TradingConventionCode":null,"ValidationResults":[]}
+2023-04-03 09:17:00,121 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Security sent for updation: -> 
+2023-04-03 09:17:16,324 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: GetContractLookups --> Starts
+2023-04-03 09:17:17,246 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: GetContractLookups --> Ends
+2023-04-03 09:17:17,246 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Calling SunGard.Vpm.Share.Common.Contracts.VPMTable --> Starts
+2023-04-03 09:17:17,246 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Calling SunGard.Vpm.Share.Common.Contracts.VPMTable --> Ends
+2023-04-03 09:17:19,418 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Stating Post loan updates. Count:1
+2023-04-03 09:17:19,418 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: PrepareSecurityContractArrayForIds --> start:1
+2023-04-03 09:17:20,246 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: PrepareSecurityContractArrayForIds --> end:1
+2023-04-03 09:17:20,246 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Update Loans --> Starts
+2023-04-03 09:17:20,246 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: using SymbolServiceClient
+2023-04-03 09:17:21,715 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Done post loan updates
+2023-04-03 09:17:23,949 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Deletion of leg when there is no row in UI Starts here
+2023-04-03 09:17:23,949 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Deletion of leg when there is no row in UI Ends here
+2023-04-03 09:17:24,168 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: External ID 4
+2023-04-03 09:17:24,168 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Internal ID LOSE012799
+2023-04-03 09:17:24,168 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Message :Bank debt inserted successfully. Unable to update VPM ID in secmaster
+2023-04-03 09:17:24,168 [ERROR] [CBVPMAdapter.VPMAdapter, 1] [(null)] [Exception: ]: Result :FAILURE

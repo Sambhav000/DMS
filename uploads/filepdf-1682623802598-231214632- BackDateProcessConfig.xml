@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BackDateConfig>
+<BaseURL>abc</BaseURL>
+<UserName>admin</UserName>
+<Password>ivp@123</Password>
+<TaskDetails>
+<FilterCondition>
+created_on > |lastruntime(Security Backdation)|
+</FilterCondition>
+<InitialStartDate>
+12/31/2022
+</InitialStartDate>
+</TaskDetails>
+<UpdateDetails>
+<SecTypesToExcludeFromBackdate>
+</SecTypesToExcludeFromBackdate>
+<AttributesToBackdate>
+<!-- <SecType name="Bond">Security Name</SecType>
+<SecType name="Convertible Bond">Security Name,Security Description</SecType> -->
+</AttributesToBackdate>
+<UseValuesAsOf>
+T
+</UseValuesAsOf>
+<TSStartDate>
+T-45
+</TSStartDate>
+</UpdateDetails>
+</BackDateConfig>
